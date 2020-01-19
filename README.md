@@ -1,1 +1,0 @@
-# https-github.com-rpi-intro-ml-app--spring-semester---2020-assignment-1--zeynepecetolun-
